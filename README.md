@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Analytics
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning/Data Analytics Projects
-- 📫 How to reach me through KC Analytics on LinkedIn
+- 📫 You can reach me through KC Analytics on LinkedIn
 
 <!---
 NkamuoKen/NkamuoKen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
