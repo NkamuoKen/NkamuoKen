@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NkamuoKen
-- 👀 I’m interested in Machine Learning and Data Analytics
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning/Data Analytics Projects
-- 📫 You can reach me through KC Analytics on LinkedIn
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m done learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 📫 You can reach me through Kenechukwu Cosmas Nkamuo on LinkedIn
 
 <!---
 NkamuoKen/NkamuoKen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
